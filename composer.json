@@ -1,0 +1,13 @@
+{
+    "require": {
+        "google/protobuf": "^3.21"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^4.24"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1.1"
+        }
+    }
+}
